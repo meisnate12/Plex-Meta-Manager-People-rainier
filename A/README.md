@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Rainier (rainier) - A (531 Images)
+# Plex Meta Manager People - Rainier (rainier) - A (529 Images)
 
 * [Aamir Khan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/A/Images/Aamir%20Khan.jpg)
 * [Aaron Beelner](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/A/Images/Aaron%20Beelner.jpg)
@@ -300,7 +300,6 @@
 * [Andrea Bartlow](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/A/Images/Andrea%20Bartlow.jpg)
 * [Andrea Martin](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/A/Images/Andrea%20Martin.jpg)
 * [Andrea Rosen](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/A/Images/Andrea%20Rosen.jpg)
-* [Andreas Pietschmann](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/A/Images/Andreas%20Pietschmann.jpg)
 * [Andreas Wisniewski](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/A/Images/Andreas%20Wisniewski.jpg)
 * [Andreea Păduraru](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/A/Images/Andreea%20P%C4%83duraru.jpg)
 * [Andrei Arlovski](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/A/Images/Andrei%20Arlovski.jpg)
@@ -340,7 +339,6 @@
 * [Andy Serkis](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/A/Images/Andy%20Serkis.jpg)
 * [Andy Thompson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/A/Images/Andy%20Thompson.jpg)
 * [Anette Støvelbæk](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/A/Images/Anette%20St%C3%B8velb%C3%A6k.jpg)
-* [Aneurin Barnard](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/A/Images/Aneurin%20Barnard.jpg)
 * [Ang Lee](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/A/Images/Ang%20Lee.jpg)
 * [Angad Singh Ranyal](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/A/Images/Angad%20Singh%20Ranyal.jpg)
 * [Angel Coulby](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/A/Images/Angel%20Coulby.jpg)
