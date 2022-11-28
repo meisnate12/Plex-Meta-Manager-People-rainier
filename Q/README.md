@@ -1,0 +1,10 @@
+# Plex Meta Manager People - Rainier (rainier) - Q (8 Images)
+
+* [Queen Latifah](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/Q/Images/Queen%20Latifah.jpg)
+* [Quentin Dupieux](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/Q/Images/Quentin%20Dupieux.jpg)
+* [Quentin Tarantino](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/Q/Images/Quentin%20Tarantino.jpg)
+* [Questlove](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/Q/Images/Questlove.jpg)
+* [Quim Gutiérrez](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/Q/Images/Quim%20Guti%C3%A9rrez.jpg)
+* [Quincy Jones](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/Q/Images/Quincy%20Jones.jpg)
+* [Quinn Duffy](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/Q/Images/Quinn%20Duffy.jpg)
+* [Quinton Jackson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/Q/Images/Quinton%20Jackson.jpg)
