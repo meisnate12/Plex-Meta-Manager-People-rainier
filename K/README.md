@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Rainier (rainier) - K (296 Images)
+# Plex Meta Manager People - Rainier (rainier) - K (297 Images)
 
 * [K Raghavendra Rao](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/K/Images/K%20Raghavendra%20Rao.jpg)
 * [K.J. Apa](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/K/Images/K.J.%20Apa.jpg)
@@ -136,6 +136,7 @@
 * [Kelsey Grammer](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/K/Images/Kelsey%20Grammer.jpg)
 * [Kelson Henderson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/K/Images/Kelson%20Henderson.jpg)
 * [Kemp Powers](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/K/Images/Kemp%20Powers.jpg)
+* [Ken  Burns](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/K/Images/Ken%20%20Burns.jpg)
 * [Ken Davitian](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/K/Images/Ken%20Davitian.jpg)
 * [Ken Hudson Campbell](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/K/Images/Ken%20Hudson%20Campbell.jpg)
 * [Ken Jeong](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/K/Images/Ken%20Jeong.jpg)
