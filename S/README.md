@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Rainier (rainier) - S (516 Images)
+# Plex Meta Manager People - Rainier (rainier) - S (517 Images)
 
 * [S. S. Rajamouli](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/S/Images/S.%20S.%20Rajamouli.jpg)
 * [Saagar Shaikh](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/S/Images/Saagar%20Shaikh.jpg)
@@ -410,6 +410,7 @@
 * [Stephen Root](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/S/Images/Stephen%20Root.jpg)
 * [Stephen Schwartz](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/S/Images/Stephen%20Schwartz.jpg)
 * [Stephen Sommers](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/S/Images/Stephen%20Sommers.jpg)
+* [Stephen Stanton](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/S/Images/Stephen%20Stanton.jpg)
 * [Stephen Tobolowsky](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/S/Images/Stephen%20Tobolowsky.jpg)
 * [Stephen Tompkinson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/S/Images/Stephen%20Tompkinson.jpg)
 * [Stephen Ure](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/S/Images/Stephen%20Ure.jpg)
