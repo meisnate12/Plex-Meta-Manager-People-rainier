@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Rainier (rainier) - O (73 Images)
+# Plex Meta Manager People - Rainier (rainier) - O (74 Images)
 
 * [O'Shea Jackson Jr.](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/O/Images/O%27Shea%20Jackson%20Jr..jpg)
 * [O.T. Fagbenle](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/O/Images/O.T.%20Fagbenle.jpg)
@@ -36,6 +36,7 @@
 * [Olivia Thirlby](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/O/Images/Olivia%20Thirlby.jpg)
 * [Olivia Wilde](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/O/Images/Olivia%20Wilde.jpg)
 * [Olivia Williams](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/O/Images/Olivia%20Williams.jpg)
+* [Olivier Nakache](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/O/Images/Olivier%20Nakache.jpg)
 * [Olivier Richters](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/O/Images/Olivier%20Richters.jpg)
 * [Olympia Dukakis](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/O/Images/Olympia%20Dukakis.jpg)
 * [Omar Benson Miller](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/O/Images/Omar%20Benson%20Miller.jpg)
