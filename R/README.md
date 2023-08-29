@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Rainier (rainier) - R (487 Images)
+# Plex Meta Manager People - Rainier (rainier) - R (488 Images)
 
 * [R. Lee Ermey](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/R/Images/R.%20Lee%20Ermey.jpg)
 * [R. Madhavan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/R/Images/R.%20Madhavan.jpg)
@@ -30,6 +30,7 @@
 * [Raffey Cassidy](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/R/Images/Raffey%20Cassidy.jpg)
 * [Rahul Kumar](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/R/Images/Rahul%20Kumar.jpg)
 * [Rahul Subramanian](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/R/Images/Rahul%20Subramanian.jpg)
+* [Rainer Werner Fassbinder](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/R/Images/Rainer%20Werner%20Fassbinder.jpg)
 * [Raini Rodriguez](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/R/Images/Raini%20Rodriguez.jpg)
 * [Rainn Wilson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/R/Images/Rainn%20Wilson.jpg)
 * [Rajkumar Hirani](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/R/Images/Rajkumar%20Hirani.jpg)
