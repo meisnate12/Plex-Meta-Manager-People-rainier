@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Rainier (rainier) - C (514 Images)
+# Plex Meta Manager People - Rainier (rainier) - C (515 Images)
 
 * [C. Robert Cargill](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/C/Images/C.%20Robert%20Cargill.jpg)
 * [C. S. Forester](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/C/Images/C.%20S.%20Forester.jpg)
@@ -133,6 +133,7 @@
 * [Chandler Head](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/C/Images/Chandler%20Head.jpg)
 * [Chang Chen](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/C/Images/Chang%20Chen.jpg)
 * [Channing Tatum](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/C/Images/Channing%20Tatum.jpg)
+* [Chantal Akerman](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/C/Images/Chantal%20Akerman.jpg)
 * [Charithra Chandran](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/C/Images/Charithra%20Chandran.jpg)
 * [Charlene Amoia](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/C/Images/Charlene%20Amoia.jpg)
 * [Charlene McKenna](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/C/Images/Charlene%20McKenna.jpg)
