@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Rainier (rainier) - S (537 Images)
+# Plex Meta Manager People - Rainier (rainier) - S (538 Images)
 
 * [S. S. Rajamouli](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/S/Images/S.%20S.%20Rajamouli.jpg)
 * [Saagar Shaikh](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/S/Images/Saagar%20Shaikh.jpg)
@@ -106,6 +106,7 @@
 * [Sarah Swire](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/S/Images/Sarah%20Swire.jpg)
 * [Sarah Vowell](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/S/Images/Sarah%20Vowell.jpg)
 * [Sarah Wayne Callies](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/S/Images/Sarah%20Wayne%20Callies.jpg)
+* [Sarah Wright](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/S/Images/Sarah%20Wright.jpg)
 * [Sarah-Jeanne Labrosse](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/S/Images/Sarah-Jeanne%20Labrosse.jpg)
 * [Sarah-Nicole Robles](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/S/Images/Sarah-Nicole%20Robles.jpg)
 * [Sarita Choudhury](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/S/Images/Sarita%20Choudhury.jpg)
