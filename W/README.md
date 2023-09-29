@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Rainier (rainier) - W (144 Images)
+# Plex Meta Manager People - Rainier (rainier) - W (145 Images)
 
 * [W. Bruce Cameron](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/W/Images/W.%20Bruce%20Cameron.jpg)
 * [W. Earl Brown](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/W/Images/W.%20Earl%20Brown.jpg)
@@ -42,6 +42,7 @@
 * [Wentworth Miller](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/W/Images/Wentworth%20Miller.jpg)
 * [Werner Herzog](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/W/Images/Werner%20Herzog.jpg)
 * [Wes Anderson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/W/Images/Wes%20Anderson.jpg)
+* [Wes Ball](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/W/Images/Wes%20Ball.jpg)
 * [Wes Bentley](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/W/Images/Wes%20Bentley.jpg)
 * [Wes Brown](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/W/Images/Wes%20Brown.jpg)
 * [Wes Chatham](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/W/Images/Wes%20Chatham.jpg)
