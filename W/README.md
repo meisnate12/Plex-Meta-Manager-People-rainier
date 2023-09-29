@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Rainier (rainier) - W (145 Images)
+# Plex Meta Manager People - Rainier (rainier) - W (146 Images)
 
 * [W. Bruce Cameron](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/W/Images/W.%20Bruce%20Cameron.jpg)
 * [W. Earl Brown](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/W/Images/W.%20Earl%20Brown.jpg)
@@ -108,6 +108,7 @@
 * [William Moulton Marston](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/W/Images/William%20Moulton%20Marston.jpg)
 * [William Nadylam](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/W/Images/William%20Nadylam.jpg)
 * [William Nicholson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/W/Images/William%20Nicholson.jpg)
+* [William Roberts](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/W/Images/William%20Roberts.jpg)
 * [William Russ](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/W/Images/William%20Russ.jpg)
 * [William Sadler](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/W/Images/William%20Sadler.jpg)
 * [William Shakespeare](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/W/Images/William%20Shakespeare.jpg)

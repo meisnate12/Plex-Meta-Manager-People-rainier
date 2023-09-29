@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Rainier (rainier) - K (340 Images)
+# Plex Meta Manager People - Rainier (rainier) - K (341 Images)
 
 * [K Raghavendra Rao](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/K/Images/K%20Raghavendra%20Rao.jpg)
 * [K.J. Apa](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/K/Images/K.J.%20Apa.jpg)
@@ -265,6 +265,7 @@
 * [Kimberly Cruchon Brooks](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/K/Images/Kimberly%20Cruchon%20Brooks.jpg)
 * [Kimberly Elise](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/K/Images/Kimberly%20Elise.jpg)
 * [Kimmy Shields](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/K/Images/Kimmy%20Shields.jpg)
+* [King Hu](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/K/Images/King%20Hu.jpg)
 * [Kinji Fukasaku](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/K/Images/Kinji%20Fukasaku.jpg)
 * [Kip Chapman](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/K/Images/Kip%20Chapman.jpg)
 * [Kiran Shah](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/K/Images/Kiran%20Shah.jpg)

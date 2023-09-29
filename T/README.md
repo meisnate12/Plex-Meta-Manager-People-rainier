@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Rainier (rainier) - T (379 Images)
+# Plex Meta Manager People - Rainier (rainier) - T (381 Images)
 
 * [T. J. Miller](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/T/Images/T.%20J.%20Miller.jpg)
 * [T. Love](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/T/Images/T.%20Love.jpg)
@@ -66,6 +66,7 @@
 * [Ted Levine](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/T/Images/Ted%20Levine.jpg)
 * [Ted McGinley](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/T/Images/Ted%20McGinley.jpg)
 * [Ted Raimi](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/T/Images/Ted%20Raimi.jpg)
+* [Ted Sears](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/T/Images/Ted%20Sears.jpg)
 * [Teddy Newton](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/T/Images/Teddy%20Newton.jpg)
 * [Telly Savalas](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/T/Images/Telly%20Savalas.jpg)
 * [Telma Hopkins](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/T/Images/Telma%20Hopkins.jpg)
@@ -96,6 +97,7 @@
 * [Terry Notary](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/T/Images/Terry%20Notary.jpg)
 * [Terry Rossio](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/T/Images/Terry%20Rossio.jpg)
 * [Terry Winsor](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/T/Images/Terry%20Winsor.jpg)
+* [Teruo Ishii](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/T/Images/Teruo%20Ishii.jpg)
 * [Tessa Thompson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/T/Images/Tessa%20Thompson.jpg)
 * [Teyonah Parris](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/T/Images/Teyonah%20Parris.jpg)
 * [Thandiwe Newton](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/T/Images/Thandiwe%20Newton.jpg)

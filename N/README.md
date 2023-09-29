@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Rainier (rainier) - N (214 Images)
+# Plex Meta Manager People - Rainier (rainier) - N (215 Images)
 
 * [Na Hong-jin](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/N/Images/Na%20Hong-jin.jpg)
 * [Nabhaan Rizwan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/N/Images/Nabhaan%20Rizwan.jpg)
@@ -205,6 +205,7 @@
 * [Norma Alvarez](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/N/Images/Norma%20Alvarez.jpg)
 * [Norma Bengell](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/N/Images/Norma%20Bengell.jpg)
 * [Norman Burton](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/N/Images/Norman%20Burton.jpg)
+* [Norman Ferguson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/N/Images/Norman%20Ferguson.jpg)
 * [Norman J. Warren](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/N/Images/Norman%20J.%20Warren.jpg)
 * [Norman Jewison](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/N/Images/Norman%20Jewison.jpg)
 * [Norman Reedus](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/N/Images/Norman%20Reedus.jpg)

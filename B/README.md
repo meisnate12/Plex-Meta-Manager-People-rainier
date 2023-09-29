@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Rainier (rainier) - B (418 Images)
+# Plex Meta Manager People - Rainier (rainier) - B (419 Images)
 
 * [B.J. Penn](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/B/Images/B.J.%20Penn.jpg)
 * [BD Wong](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/B/Images/BD%20Wong.jpg)
@@ -141,6 +141,7 @@
 * [Bill Burrud](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/B/Images/Bill%20Burrud.jpg)
 * [Bill Camp](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/B/Images/Bill%20Camp.jpg)
 * [Bill Cobbs](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/B/Images/Bill%20Cobbs.jpg)
+* [Bill Collage](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/B/Images/Bill%20Collage.jpg)
 * [Bill Condon](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/B/Images/Bill%20Condon.jpg)
 * [Bill Cosby](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/B/Images/Bill%20Cosby.jpg)
 * [Bill Engvall](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/B/Images/Bill%20Engvall.jpg)

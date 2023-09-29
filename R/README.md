@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Rainier (rainier) - R (505 Images)
+# Plex Meta Manager People - Rainier (rainier) - R (506 Images)
 
 * [R. Lee Ermey](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/R/Images/R.%20Lee%20Ermey.jpg)
 * [R. Madhavan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/R/Images/R.%20Madhavan.jpg)
@@ -171,6 +171,7 @@
 * [Richard Donner](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/R/Images/Richard%20Donner.jpg)
 * [Richard Dormer](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/R/Images/Richard%20Dormer.jpg)
 * [Richard Dreyfuss](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/R/Images/Richard%20Dreyfuss.jpg)
+* [Richard Dutcher](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/R/Images/Richard%20Dutcher.jpg)
 * [Richard E. Grant](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/R/Images/Richard%20E.%20Grant.jpg)
 * [Richard Edson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/R/Images/Richard%20Edson.jpg)
 * [Richard Farnsworth](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/R/Images/Richard%20Farnsworth.jpg)
