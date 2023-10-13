@@ -148,7 +148,7 @@
 * [James Newton Howard](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/J/Images/James%20Newton%20Howard.jpg)
 * [James Norton](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/J/Images/James%20Norton.jpg)
 * [James Parks](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/J/Images/James%20Parks.jpg)
-* [James Parrot](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/J/Images/James%20Parrot.jpg)
+* [James Parrott](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/J/Images/James%20Parrott.jpg)
 * [James Patrick Pitt](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/J/Images/James%20Patrick%20Pitt.jpg)
 * [James Payton](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/J/Images/James%20Payton.jpg)
 * [James Phelps](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/J/Images/James%20Phelps.jpg)
