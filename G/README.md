@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Rainier (rainier) - G (282 Images)
+# Plex Meta Manager People - Rainier (rainier) - G (283 Images)
 
 * [G-Eazy](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/G/Images/G-Eazy.jpg)
 * [G. D. Spradlin](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/G/Images/G.%20D.%20Spradlin.jpg)
@@ -251,6 +251,7 @@
 * [Gregg Henry](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/G/Images/Gregg%20Henry.jpg)
 * [Gregg Turkington](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/G/Images/Gregg%20Turkington.jpg)
 * [Gregory Harrison](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/G/Images/Gregory%20Harrison.jpg)
+* [Gregory Hatanaka](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/G/Images/Gregory%20Hatanaka.jpg)
 * [Gregory Jacobs](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/G/Images/Gregory%20Jacobs.jpg)
 * [Gregory Peck](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/G/Images/Gregory%20Peck.jpg)
 * [Greig Fraser](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/G/Images/Greig%20Fraser.jpg)

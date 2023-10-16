@@ -1,5 +1,6 @@
-# Plex Meta Manager People - Rainier (rainier) - N (222 Images)
+# Plex Meta Manager People - Rainier (rainier) - N (224 Images)
 
+* [N.T. Rama Rao Jr.](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/N/Images/N.T.%20Rama%20Rao%20Jr..jpg)
 * [Na Hong-jin](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/N/Images/Na%20Hong-jin.jpg)
 * [Nabhaan Rizwan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/N/Images/Nabhaan%20Rizwan.jpg)
 * [Nabiyah Be](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/N/Images/Nabiyah%20Be.jpg)
@@ -102,6 +103,7 @@
 * [Niall Matter](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/N/Images/Niall%20Matter.jpg)
 * [Niamh Algar](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/N/Images/Niamh%20Algar.jpg)
 * [Niamh Lynch](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/N/Images/Niamh%20Lynch.jpg)
+* [Nican Robinson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/N/Images/Nican%20Robinson.jpg)
 * [Nicholas Bird](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/N/Images/Nicholas%20Bird.jpg)
 * [Nicholas Blane](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/N/Images/Nicholas%20Blane.jpg)
 * [Nicholas Hoult](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/N/Images/Nicholas%20Hoult.jpg)

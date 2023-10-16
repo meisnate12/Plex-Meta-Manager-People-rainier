@@ -1,5 +1,6 @@
-# Plex Meta Manager People - Rainier (rainier) - Y (32 Images)
+# Plex Meta Manager People - Rainier (rainier) - Y (33 Images)
 
+* [Y. Ravi Shankar](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/Y/Images/Y.%20Ravi%20Shankar.jpg)
 * [Yahya Abdul-Mateen II](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/Y/Images/Yahya%20Abdul-Mateen%20II.jpg)
 * [Yang Liang](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/Y/Images/Yang%20Liang.jpg)
 * [Yann Gael](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/Y/Images/Yann%20Gael.jpg)

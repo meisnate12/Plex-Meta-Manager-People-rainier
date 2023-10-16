@@ -1,5 +1,6 @@
-# Plex Meta Manager People - Rainier (rainier) - U (13 Images)
+# Plex Meta Manager People - Rainier (rainier) - U (14 Images)
 
+* [Uday Krishna](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/U/Images/Uday%20Krishna.jpg)
 * [Udo Kier](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/U/Images/Udo%20Kier.jpg)
 * [Udo Samel](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/U/Images/Udo%20Samel.jpg)
 * [Ugo Tognazzi](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/U/Images/Ugo%20Tognazzi.jpg)

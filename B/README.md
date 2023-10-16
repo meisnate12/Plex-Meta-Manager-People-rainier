@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Rainier (rainier) - B (426 Images)
+# Plex Meta Manager People - Rainier (rainier) - B (427 Images)
 
 * [B.J. Penn](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/B/Images/B.J.%20Penn.jpg)
 * [BD Wong](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/B/Images/BD%20Wong.jpg)
@@ -248,6 +248,7 @@
 * [Boris Karloff](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/B/Images/Boris%20Karloff.jpg)
 * [Boris Kodjoe](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/B/Images/Boris%20Kodjoe.jpg)
 * [Bowen Yang](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/B/Images/Bowen%20Yang.jpg)
+* [Boyapati Srinu](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/B/Images/Boyapati%20Srinu.jpg)
 * [Boyd Holbrook](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/B/Images/Boyd%20Holbrook.jpg)
 * [Brad Anderson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/B/Images/Brad%20Anderson.jpg)
 * [Brad Bird](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/B/Images/Brad%20Bird.jpg)
