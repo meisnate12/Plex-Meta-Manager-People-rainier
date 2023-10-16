@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Rainier (rainier) - F (150 Images)
+# Plex Meta Manager People - Rainier (rainier) - F (151 Images)
 
 * [F. Gary Gray](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/F/Images/F.%20Gary%20Gray.jpg)
 * [F. Murray Abraham](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/F/Images/F.%20Murray%20Abraham.jpg)
@@ -21,6 +21,7 @@
 * [Farrah Mackenzie](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/F/Images/Farrah%20Mackenzie.jpg)
 * [Farrelly Brothers](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/F/Images/Farrelly%20Brothers.jpg)
 * [Farshad Kholghi](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/F/Images/Farshad%20Kholghi.jpg)
+* [Fatih Akin](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/F/Images/Fatih%20Akin.jpg)
 * [Fatima Sana Shaikh](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/F/Images/Fatima%20Sana%20Shaikh.jpg)
 * [Fatou Bah](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/F/Images/Fatou%20Bah.jpg)
 * [Fay Ripley](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/F/Images/Fay%20Ripley.jpg)

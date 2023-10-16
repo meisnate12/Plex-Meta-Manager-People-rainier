@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Rainier (rainier) - T (386 Images)
+# Plex Meta Manager People - Rainier (rainier) - T (387 Images)
 
 * [T. J. Miller](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/T/Images/T.%20J.%20Miller.jpg)
 * [T. Love](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/T/Images/T.%20Love.jpg)
@@ -18,6 +18,7 @@
 * [Tallie Medel](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/T/Images/Tallie%20Medel.jpg)
 * [Talulah Riley](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/T/Images/Talulah%20Riley.jpg)
 * [Tam White](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/T/Images/Tam%20White.jpg)
+* [Tamannaah Bhatia](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/T/Images/Tamannaah%20Bhatia.jpg)
 * [Tamara Smart](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/T/Images/Tamara%20Smart.jpg)
 * [Tamera Mowry-Housley](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/T/Images/Tamera%20Mowry-Housley.jpg)
 * [Tami Sagher](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/T/Images/Tami%20Sagher.jpg)

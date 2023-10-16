@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Rainier (rainier) - V (95 Images)
+# Plex Meta Manager People - Rainier (rainier) - V (97 Images)
 
 * [V.J. Foster](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/V/Images/V.J.%20Foster.jpg)
 * [Vaibhav Sethia](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/V/Images/Vaibhav%20Sethia.jpg)
@@ -52,6 +52,7 @@
 * [Vidhu Vinod Chopra](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/V/Images/Vidhu%20Vinod%20Chopra.jpg)
 * [Viggo Mortensen](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/V/Images/Viggo%20Mortensen.jpg)
 * [Vik Sahay](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/V/Images/Vik%20Sahay.jpg)
+* [Vikrant Massey](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/V/Images/Vikrant%20Massey.jpg)
 * [Vin Diesel](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/V/Images/Vin%20Diesel.jpg)
 * [Vinani Mwazanzale](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/V/Images/Vinani%20Mwazanzale.jpg)
 * [Vince Pisani](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/V/Images/Vince%20Pisani.jpg)
@@ -83,6 +84,7 @@
 * [Vir Das](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/V/Images/Vir%20Das.jpg)
 * [Virginia Gardner](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/V/Images/Virginia%20Gardner.jpg)
 * [Virginia Madsen](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/V/Images/Virginia%20Madsen.jpg)
+* [Vishal Bhardwaj](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/V/Images/Vishal%20Bhardwaj.jpg)
 * [Vitor Belfort](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/V/Images/Vitor%20Belfort.jpg)
 * [Vittorio De Sica](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/V/Images/Vittorio%20De%20Sica.jpg)
 * [Vittorio Duse](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/V/Images/Vittorio%20Duse.jpg)

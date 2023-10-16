@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Rainier (rainier) - D (545 Images)
+# Plex Meta Manager People - Rainier (rainier) - D (546 Images)
 
 * [D.L. Hughley](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/D/Images/D.L.%20Hughley.jpg)
 * [D.R. Nanayakkara](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/D/Images/D.R.%20Nanayakkara.jpg)
@@ -206,6 +206,7 @@
 * [David Cross](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/D/Images/David%20Cross.jpg)
 * [David Dastmalchian](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/D/Images/David%20Dastmalchian.jpg)
 * [David Dencik](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/D/Images/David%20Dencik.jpg)
+* [David Dhawan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/D/Images/David%20Dhawan.jpg)
 * [David Dobkin](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/D/Images/David%20Dobkin.jpg)
 * [David Duchovny](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/D/Images/David%20Duchovny.jpg)
 * [David Eigenberg](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/D/Images/David%20Eigenberg.jpg)
