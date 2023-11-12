@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Rainier (rainier) - C (544 Images)
+# Plex Meta Manager People - Rainier (rainier) - C (545 Images)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/C/Images/%21_Images_grid.jpg)
 * [C. Robert Cargill](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/C/Images/C.%20Robert%20Cargill.jpg)
@@ -346,6 +346,7 @@
 * [Christopher Jones](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/C/Images/Christopher%20Jones.jpg)
 * [Christopher Kirby](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/C/Images/Christopher%20Kirby.jpg)
 * [Christopher Knights](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/C/Images/Christopher%20Knights.jpg)
+* [Christopher Landon](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/C/Images/Christopher%20Landon.jpg)
 * [Christopher Lee](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/C/Images/Christopher%20Lee.jpg)
 * [Christopher Lloyd](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/C/Images/Christopher%20Lloyd.jpg)
 * [Christopher Markus](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/C/Images/Christopher%20Markus.jpg)
