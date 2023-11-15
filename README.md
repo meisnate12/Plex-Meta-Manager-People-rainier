@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Rainier (rainier) (8249 Images)
+# Plex Meta Manager People - Rainier (rainier) (8250 Images)
 
 <details><summary><a href="'">' (1 Images)</a></summary>
 
@@ -2700,7 +2700,7 @@
 * [Fritz Lang](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/F/Images/Fritz%20Lang.jpg)
 * [Frédéric North](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/F/Images/Fr%C3%A9d%C3%A9ric%20North.jpg)
 </details>
-<details><summary><a href="G">G (286 Images)</a></summary>
+<details><summary><a href="G">G (287 Images)</a></summary>
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/G/Images/%21_Images_grid.jpg)
 * [G-Eazy](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/G/Images/G-Eazy.jpg)
@@ -2820,6 +2820,7 @@
 * [George Sanders](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/G/Images/George%20Sanders.jpg)
 * [George Sear](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/G/Images/George%20Sear.jpg)
 * [George Segal](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/G/Images/George%20Segal.jpg)
+* [George Takei](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/G/Images/George%20Takei.jpg)
 * [George Wendt](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/G/Images/George%20Wendt.jpg)
 * [Georges Khabbaz](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/G/Images/Georges%20Khabbaz.jpg)
 * [Georges Lopez](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/G/Images/Georges%20Lopez.jpg)
