@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Rainier (rainier) (8281 Images)
+# Plex Meta Manager People - Rainier (rainier) (8282 Images)
 
 <details><summary><a href="'">' (1 Images)</a></summary>
 
@@ -5057,7 +5057,7 @@
 * [Léa Seydoux](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/L/Images/L%C3%A9a%20Seydoux.jpg)
 * [Lúcio Andrey](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/L/Images/L%C3%BAcio%20Andrey.jpg)
 </details>
-<details><summary><a href="M">M (751 Images)</a></summary>
+<details><summary><a href="M">M (752 Images)</a></summary>
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/M/Images/%21_Images_grid.jpg)
 * [M'laah Kaur Singh](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/M/Images/M%27laah%20Kaur%20Singh.jpg)
@@ -5444,6 +5444,7 @@
 * [Max Borenstein](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/M/Images/Max%20Borenstein.jpg)
 * [Max Carver](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/M/Images/Max%20Carver.jpg)
 * [Max Casella](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/M/Images/Max%20Casella.jpg)
+* [Max Martini](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/M/Images/Max%20Martini.jpg)
 * [Max Minghella](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/M/Images/Max%20Minghella.jpg)
 * [Max Perlich](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/M/Images/Max%20Perlich.jpg)
 * [Max Steiner](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/M/Images/Max%20Steiner.jpg)
