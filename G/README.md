@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Rainier (rainier) - G (288 Images)
+# Plex Meta Manager People - Rainier (rainier) - G (289 Images)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/G/Images/%21_Images_grid.jpg)
 * [G-Eazy](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/G/Images/G-Eazy.jpg)
@@ -212,6 +212,7 @@
 * [Gordon Danniels](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/G/Images/Gordon%20Danniels.jpg)
 * [Gordon Hessler](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/G/Images/Gordon%20Hessler.jpg)
 * [Gordon Liu Chia-Hui](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/G/Images/Gordon%20Liu%20Chia-Hui.jpg)
+* [Gordon Ramsay](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/G/Images/Gordon%20Ramsay.jpg)
 * [Gore Verbinski](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/G/Images/Gore%20Verbinski.jpg)
 * [Gottfried John](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/G/Images/Gottfried%20John.jpg)
 * [Govinda](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/G/Images/Govinda.jpg)
