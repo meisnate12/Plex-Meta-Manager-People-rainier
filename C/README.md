@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Rainier (rainier) - C (555 Images)
+# Plex Meta Manager People - Rainier (rainier) - C (554 Images)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/C/Images/%21_Images_grid.jpg)
 * [C. Robert Cargill](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/C/Images/C.%20Robert%20Cargill.jpg)
@@ -253,7 +253,6 @@
 * [Chris Columbus](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/C/Images/Chris%20Columbus.jpg)
 * [Chris Cooper](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/C/Images/Chris%20Cooper.jpg)
 * [Chris D'Elia](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/C/Images/Chris%20D%27Elia.jpg)
-* [Chris DiStefano](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/C/Images/Chris%20DiStefano.jpg)
 * [Chris Diamantopoulos](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/C/Images/Chris%20Diamantopoulos.jpg)
 * [Chris Doumitt](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/C/Images/Chris%20Doumitt.jpg)
 * [Chris Elliott](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/C/Images/Chris%20Elliott.jpg)
