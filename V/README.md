@@ -1,7 +1,6 @@
-# Plex Meta Manager People - Rainier (rainier) - V (109 Images)
+# Plex Meta Manager People - Rainier (rainier) - V (108 Images)
 ![Grid](grid.jpg)
 
-* [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/V/Images/%21_Images_grid.jpg)
 * [V.J. Foster](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/V/Images/V.J.%20Foster.jpg)
 * [Vaibhav Sethia](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/V/Images/Vaibhav%20Sethia.jpg)
 * [Val Kilmer](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/V/Images/Val%20Kilmer.jpg)

@@ -1,7 +1,6 @@
-# Plex Meta Manager People - Rainier (rainier) - R (551 Images)
+# Plex Meta Manager People - Rainier (rainier) - R (550 Images)
 ![Grid](grid.jpg)
 
-* [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/R/Images/%21_Images_grid.jpg)
 * [R. Lee Ermey](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/R/Images/R.%20Lee%20Ermey.jpg)
 * [R. Madhavan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/R/Images/R.%20Madhavan.jpg)
 * [R. Martin Klein](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/R/Images/R.%20Martin%20Klein.jpg)

@@ -1,7 +1,6 @@
-# Plex Meta Manager People - Rainier (rainier) - X (6 Images)
+# Plex Meta Manager People - Rainier (rainier) - X (5 Images)
 ![Grid](grid.jpg)
 
-* [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/X/Images/%21_Images_grid.jpg)
 * [Xander Berkeley](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/X/Images/Xander%20Berkeley.jpg)
 * [Xavier Jiménez](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/X/Images/Xavier%20Jim%C3%A9nez.jpg)
 * [Xavyer Ureña](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/X/Images/Xavyer%20Ure%C3%B1a.jpg)
