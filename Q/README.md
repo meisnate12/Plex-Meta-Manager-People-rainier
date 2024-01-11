@@ -1,4 +1,5 @@
 # Plex Meta Manager People - Rainier (rainier) - Q (9 Images)
+![Grid](grid.jpg)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/Q/Images/%21_Images_grid.jpg)
 * [Queen Latifah](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/Q/Images/Queen%20Latifah.jpg)

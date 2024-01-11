@@ -1,4 +1,5 @@
 # Plex Meta Manager People - Rainier (rainier) - W (155 Images)
+![Grid](grid.jpg)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/W/Images/%21_Images_grid.jpg)
 * [W. Bruce Cameron](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/W/Images/W.%20Bruce%20Cameron.jpg)

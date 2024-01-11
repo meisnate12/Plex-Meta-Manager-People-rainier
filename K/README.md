@@ -1,4 +1,5 @@
 # Plex Meta Manager People - Rainier (rainier) - K (373 Images)
+![Grid](grid.jpg)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/K/Images/%21_Images_grid.jpg)
 * [K Raghavendra Rao](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/K/Images/K%20Raghavendra%20Rao.jpg)

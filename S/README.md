@@ -1,4 +1,5 @@
 # Plex Meta Manager People - Rainier (rainier) - S (591 Images)
+![Grid](grid.jpg)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/S/Images/%21_Images_grid.jpg)
 * [S. S. Rajamouli](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/S/Images/S.%20S.%20Rajamouli.jpg)

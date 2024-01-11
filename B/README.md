@@ -1,4 +1,5 @@
 # Plex Meta Manager People - Rainier (rainier) - B (444 Images)
+![Grid](grid.jpg)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/B/Images/%21_Images_grid.jpg)
 * [B.J. Penn](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/B/Images/B.J.%20Penn.jpg)

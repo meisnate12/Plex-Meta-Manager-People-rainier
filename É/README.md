@@ -1,4 +1,5 @@
 # Plex Meta Manager People - Rainier (rainier) - É (4 Images)
+![Grid](grid.jpg)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/É/Images/%21_Images_grid.jpg)
 * [Élodie Yung](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/É/Images/%C3%89lodie%20Yung.jpg)

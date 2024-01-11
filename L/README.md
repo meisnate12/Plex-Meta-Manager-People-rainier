@@ -1,4 +1,5 @@
 # Plex Meta Manager People - Rainier (rainier) - L (371 Images)
+![Grid](grid.jpg)
 
 * [!_Images_grid](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/L/Images/%21_Images_grid.jpg)
 * [L. Q. Jones](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/L/Images/L.%20Q.%20Jones.jpg)
