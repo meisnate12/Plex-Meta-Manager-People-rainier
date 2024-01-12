@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Rainier (rainier) - O (77 Images)
+# Plex Meta Manager People - Rainier (rainier) - O (78 Images)
 ![Grid](grid.jpg)
 
 * [O'Shea Jackson Jr.](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/O/Images/O%27Shea%20Jackson%20Jr..jpg)
@@ -6,6 +6,7 @@
 * [Obie Matthew](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/O/Images/Obie%20Matthew.jpg)
 * [Octavia Spencer](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/O/Images/Octavia%20Spencer.jpg)
 * [Oded Fehr](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/O/Images/Oded%20Fehr.jpg)
+* [Odessa Young](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/O/Images/Odessa%20Young.jpg)
 * [Odette Annable](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/O/Images/Odette%20Annable.jpg)
 * [Odeya Rush](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/O/Images/Odeya%20Rush.jpg)
 * [Oh Young-soo](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/O/Images/Oh%20Young-soo.jpg)
