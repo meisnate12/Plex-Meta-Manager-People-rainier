@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Rainier (rainier) - G (298 Images)
+# Plex Meta Manager People - Rainier (rainier) - G (299 Images)
 ![Grid](grid.jpg)
 
 * [G-Eazy](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/G/Images/G-Eazy.jpg)
@@ -130,6 +130,7 @@
 * [Georgia Meacham](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/G/Images/Georgia%20Meacham.jpg)
 * [Georgie Glen](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/G/Images/Georgie%20Glen.jpg)
 * [Georgie Henley](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/G/Images/Georgie%20Henley.jpg)
+* [Georgina Cates](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/G/Images/Georgina%20Cates.jpg)
 * [Georgina Leonidas](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/G/Images/Georgina%20Leonidas.jpg)
 * [Gerald McRaney](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/G/Images/Gerald%20McRaney.jpg)
 * [Gerald R. Molen](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/G/Images/Gerald%20R.%20Molen.jpg)
