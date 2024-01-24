@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Rainier (rainier) - C (572 Images)
+# Plex Meta Manager People - Rainier (rainier) - C (573 Images)
 ![Grid](grid.jpg)
 
 * [C. Robert Cargill](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/C/Images/C.%20Robert%20Cargill.jpg)
@@ -239,6 +239,7 @@
 * [Chie Nakamura](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/C/Images/Chie%20Nakamura.jpg)
 * [Chike Chan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/C/Images/Chike%20Chan.jpg)
 * [Chin Han](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/C/Images/Chin%20Han.jpg)
+* [Chip Gaines](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/C/Images/Chip%20Gaines.jpg)
 * [Chiranjeevi](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/C/Images/Chiranjeevi.jpg)
 * [Chiwetel Ejiofor](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/C/Images/Chiwetel%20Ejiofor.jpg)
 * [Chloe Arrowsmith](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/C/Images/Chloe%20Arrowsmith.jpg)
