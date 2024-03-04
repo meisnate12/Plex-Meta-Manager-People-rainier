@@ -1,4 +1,4 @@
-# Plex Meta Manager People - Rainier (rainier) - E (321 Images)
+# Plex Meta Manager People - Rainier (rainier) - E (322 Images)
 ![Grid](grid.jpg)
 
 * [E.G. Marshall](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/E/Images/E.G.%20Marshall.jpg)
@@ -201,6 +201,7 @@
 * [Emmanuelle Rivassoux](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/E/Images/Emmanuelle%20Rivassoux.jpg)
 * [Emmett Scanlan](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/E/Images/Emmett%20Scanlan.jpg)
 * [Emmy Rossum](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/E/Images/Emmy%20Rossum.jpg)
+* [Emun Elliott](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/E/Images/Emun%20Elliott.jpg)
 * [Enfys Dickinson](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/E/Images/Enfys%20Dickinson.jpg)
 * [England Karam](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/E/Images/England%20Karam.jpg)
 * [Ennio Morricone](https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-People-rainier/master/E/Images/Ennio%20Morricone.jpg)
